@@ -61,6 +61,7 @@ main {
 
 .btn-encrypt {
     background-color: #0A3871;
+    border: 1px solid #0A3871;
     border-radius: 24px;
     color: white;
     cursor: pointer;
@@ -68,12 +69,9 @@ main {
     width: 328px;
 }
 
-.btn-encrypt:hover {
-    transform: scale(1.1);   
-}
-
 .btn-decrypt {
     background: #D8DFE8;
+    border: 1px solid #0A3871;
     border-radius: 24px;
     color: #0A3871;
     cursor: pointer;
@@ -82,8 +80,3 @@ main {
     width: 328px;
 }
 
-.btn-decrypt:hover {
-    transform: scale(1.1);   
-}
-
- 

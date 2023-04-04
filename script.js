@@ -27,7 +27,6 @@ function btnDecrypt() {
     textArea.value = "";
 }
 
-
 function desencriptar(stringDesencriptada) {
 
     let matrizCodigo = [["e" , "enter"] , ["i" , "imes"], ["a" ,"ai"] , ["o" , "ober"], ["u" , "ufat"]];
